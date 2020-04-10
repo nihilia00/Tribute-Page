@@ -1,0 +1,59 @@
+body {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+    background: lightgray;
+
+    width: 70%;
+    margin: auto;
+}
+
+h1, p {
+    font-size: 40px;
+}
+
+figcaption {
+    font-size: 14px;
+}
+
+figure {
+    background-color: white;
+}
+
+figure img {
+    height: auto;
+    width: 70%;
+    margin: 10px 40px 16px 40px;
+}
+
+.quote {
+    font-style: italic;
+    background-color: cornsilk;
+}
+
+li {
+    margin: 24px;
+    line-height: 1.5;
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h5 {
+    font-size: 14px;
+    background-color: white;
+}
+
+#time-line {
+    width: 50%;
+    margin: auto;
+}
+
+main {
+    text-align: center;
+}
